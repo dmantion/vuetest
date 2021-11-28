@@ -27,7 +27,7 @@ li{
     border: 1px solid #ccc;
     display: flex;
     justify-content: space-between;
-    padding: .5rem 2rem;
+    padding: .4rem 2rem;
     margin-bottom: 1rem;
 }
 rm{
